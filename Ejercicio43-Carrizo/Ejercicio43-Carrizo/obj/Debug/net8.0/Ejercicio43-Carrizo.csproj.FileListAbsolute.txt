@@ -1,0 +1,14 @@
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.AssemblyInfoInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.AssemblyInfo.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.csproj.CoreCompileInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\bin\Debug\net8.0\Ejercicio43-Carrizo.exe
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\bin\Debug\net8.0\Ejercicio43-Carrizo.deps.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\bin\Debug\net8.0\Ejercicio43-Carrizo.runtimeconfig.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\bin\Debug\net8.0\Ejercicio43-Carrizo.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\bin\Debug\net8.0\Ejercicio43-Carrizo.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\refint\Ejercicio43-Carrizo.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\Ejercicio43-Carrizo.genruntimeconfig.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\Ejercicio43-Carrizo\Ejercicio43-Carrizo\obj\Debug\net8.0\ref\Ejercicio43-Carrizo.dll
