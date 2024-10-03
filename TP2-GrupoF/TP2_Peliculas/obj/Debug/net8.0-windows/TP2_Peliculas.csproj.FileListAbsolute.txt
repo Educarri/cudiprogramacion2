@@ -39,3 +39,24 @@ C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_P
 C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
 C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
 C:\Users\Andres\Downloads\TP2_Peliculas-20240930T221541Z-001\TP2_Peliculas\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.exe
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.deps.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.runtimeconfig.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\bin\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas_MarkupCompile.lref
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.g.resources
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfoInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.AssemblyInfo.cs
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.csproj.CoreCompileInputs.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.sourcelink.json
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\refint\TP2_Peliculas.dll
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.pdb
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\TP2_Peliculas.genruntimeconfig.cache
+C:\Users\Edu\OneDrive\Documentos\UTN Tec Programacion\Programacion 2\Grupo P2\TP1_P2\cudiprogramacion2\TP2-GrupoF\TP2_Peliculas\obj\Debug\net8.0-windows\ref\TP2_Peliculas.dll
